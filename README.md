@@ -1,1 +1,1 @@
-# MonoNAS.github.io
+# mono-nas.github.io
